@@ -8,3 +8,4 @@ DH-6050三轴重力感应模块/头追模块/MPU6050/头追云台控制模块(ht
      a3--z
      gnd--gnd
      5v--5v
+headMouse_py.py中的com口需要大家在实际使用时修改成arduino在自己电脑上对应的com口。
